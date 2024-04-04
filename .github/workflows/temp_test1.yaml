@@ -11,4 +11,5 @@ jobs:
     - name : test2
       run: python test_1.py
     - name : test1
+      run : pip3 install numpy
       run : python test_2.py
