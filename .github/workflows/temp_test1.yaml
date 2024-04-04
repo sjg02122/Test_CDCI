@@ -12,4 +12,3 @@ jobs:
       run: python test_2.py
     - name : test2
       run: python test1.py
-  
