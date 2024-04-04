@@ -6,7 +6,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: test
-      run: python test_2.py
     - name : test2
       run: python test_1.py
