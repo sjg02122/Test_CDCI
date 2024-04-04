@@ -1,7 +1,5 @@
 name: JW TEST
-on:
-  push:
-    tags: V*
+on: push
 
 jobs:
   build:
